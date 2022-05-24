@@ -27,4 +27,5 @@ class ListProducts extends React.Component {
     );
   }
 }
+
 export default ListProducts;
